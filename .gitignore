@@ -1,0 +1,21 @@
+.gitignore
+
+# Maven / Gradle
+target/
+*.jar
+*.war
+*.ear
+*.class
+*.log
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+
+# OS generated files
+.DS_Store
+Thumbs.db
